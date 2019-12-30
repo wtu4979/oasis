@@ -1,0 +1,40 @@
+body{
+    font-family: "Montserrat", cursive;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+
+.collapse{
+    display: flex;
+    justify-content: flex-end;
+
+}
+.home{
+    display: grid;
+    grid-template-columns: 6 6;
+    height: 100vh;
+}
+.secondPage{
+    display: grid;
+    grid-template-columns: 6 6;
+}
+h1{
+    text-align: left;
+    font-size: 70px;
+    margin: 50 50;
+}
+h1{
+    text-transform: none;
+}
+h3{
+    text-transform: none;
+}
+.home-pic{
+    height: 650px;
+}
+
+button{
+    margin-top: 10px;
+}
+
